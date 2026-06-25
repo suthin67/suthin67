@@ -44,7 +44,7 @@ Here are my top projects showcasing my ability to handle end-to-end data pipelin
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[ใส่_GitHub_Username_ของคุณตรงนี้]&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=[Suthin67]&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ---
