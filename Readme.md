@@ -30,7 +30,7 @@ Here are my top projects showcasing my ability to handle end-to-end data pipelin
 * **Tech:** Python, Pandas, Logistic Regression, XGBoost, Matplotlib.
 * **Highlight:** Addressed the "Distribution Shift" trap by analyzing Global Findex data before modeling for the localized Thai context.
 
-#### 🍗 2. [Bangkok Chicken-Rice Index (BCRI)] (https://github.com/suthin67/bangkok-chicken-rice-geospatial-index)
+#### 🍗 2. [Bangkok Chicken-Rice Index (BCRI)](https://github.com/suthin67/bangkok-chicken-rice-geospatial-index)
 * **Objective:** A 3D Geospatial F&B Market Saturation Analysis to identify "Blue Ocean" and "Red Ocean" districts for opening new restaurant branches in Bangkok.
 * **Tech:** Python, GeoPandas, Deck.gl (Pydeck), Google Maps API.
 * **Highlight:** Created a visually stunning 3D mapping dashboard overlaying commercial shop density against official DOPA census population data.
