@@ -8,36 +8,48 @@ I don't just write code; **I build models that solve real-world business and soc
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 🛠️ Technical Skills
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
+* **Languages:** Python (Pandas, NumPy, Scikit-Learn, Pydeck, Plotly), SQL (PostgreSQL, DuckDB)
+* **Databases & Analytics:** Advanced SQL (CTEs, Window Functions, Data Optimization)
+* **Machine Learning & AI:** XGBoost, Random Forest, Deep Learning (Time-Series Forecasting), Explainable AI (SHAP)
+* **Visualizations & BI:** Interactive Dashboards, Geo-Spatial 3D Mapping, Streamlit
 
 ---
 
-### 🚀 Featured Masterpiece Projects
+## 🚀 Projects
 
-Here are my top projects showcasing my ability to handle end-to-end data pipelines, from Macro-EDA to Machine Learning deployment:
+### 1. [Latest] Olist E-Commerce: End-to-End Advanced SQL & AI Prediction
+* **Overview:** ดึงข้อมูลขั้นสูงเพื่อวิเคราะห์พฤติกรรมการซื้อซ้ำของลูกค้า และสร้างโมเดลทำนายกลุ่ม VIP ล่วงหน้า
+* **Tech Stack:** DuckDB, Python, Plotly, Scikit-Learn (Random Forest)
+* **Key Results:** * เขียน SQL (3-Level CTEs, Window Functions) สร้าง Monthly Cohort Retention Matrix และจำแนกรายได้ลูกค้าใหม่/เก่า
+    * สร้าง Interactive Dashboard ด้วย Plotly เพื่อแสดง Churn Rate รายเดือน
+    * พัฒนาโมเดล AI ทำนายสถานะ "Future VIP" จากออเดอร์แรก (ROC-AUC: 0.85) เพื่อเพิ่มประสิทธิภาพการทำการตลาด
+* 🔗 [View on GitHub](https://github.com/suthin67/Olist-ECommerce-SQL-ML)
 
-#### 💳 1. [TH-NANO: Thai Grassroots Credit Scoring System](https://github.com/suthin67/TH-NANO)
-* **Objective:** Developed a Machine Learning automated decision matrix to predict default risks for unbanked micro-entrepreneurs using "Alternative Data" (e.g., utility bill discipline) instead of traditional salary slips.
-* **Tech:** Python, Pandas, Logistic Regression, XGBoost, Matplotlib.
-* **Highlight:** Addressed the "Distribution Shift" trap by analyzing Global Findex data before modeling for the localized Thai context.
+### 2. TH-NANO: ระบบประเมินความเสี่ยงและอนุมัติสินเชื่อนาโนไฟแนนซ์
+* **Overview:** สร้างโมเดลพิจารณาสินเชื่อสำหรับผู้ประกอบการรายย่อยที่ไม่มีเอกสารรายได้ (Thin-File Applicants)
+* **Tech Stack:** Python, Scikit-Learn, XGBoost, SHAP
+* **Key Results:** * พัฒนาโมเดลทำนายโอกาสผิดนัดชำระหนี้ (Default Prediction) โดยใช้ Alternative Data 
+    * ใช้ SHAP Value อธิบายเหตุผลการปฏิเสธสินเชื่อรายบุคคลอย่างโปร่งใส
+    * สร้าง Business Decision Matrix เพื่อกำหนดเงื่อนไขการอนุมัติอัตโนมัติ
+* 🔗 [View on GitHub](https://github.com/suthin67/TH-NANO-Credit-Scoring)
 
-#### 🍗 2. [Bangkok Chicken-Rice Index (BCRI)](https://github.com/suthin67/bangkok-chicken-rice-geospatial-index)
-* **Objective:** A 3D Geospatial F&B Market Saturation Analysis to identify "Blue Ocean" and "Red Ocean" districts for opening new restaurant branches in Bangkok.
-* **Tech:** Python, GeoPandas, Deck.gl (Pydeck), Google Maps API.
-* **Highlight:** Created a visually stunning 3D mapping dashboard overlaying commercial shop density against official DOPA census population data.
+### 3. BKK Hainanese Chicken Rice: Hyper-Local Geospatial Analysis
+* **Overview:** วิเคราะห์ข้อมูลเชิงพื้นที่ (Spatial Data) เพื่อหาโอกาสในการเปิดร้านอาหารในกรุงเทพฯ
+* **Tech Stack:** Python, Pandas, Pydeck
+* **Key Results:** * ทำ Data Extraction & Cleansing ข้อมูลประชากรและพิกัดร้านอาหารย้อนหลัง 5 ปี
+    * สร้าง Interactive 3D Spatial Map แสดงความหนาแน่นและทิศทางการเติบโตของร้านค้า
+    * แนะนำทำเลที่มีการแข่งขันต่ำ (Blue Ocean) สำหรับผู้ประกอบการ
+* 🔗 [View on GitHub](https://github.com/suthin67/BKK-Chicken-Rice-3DMap)
 
-#### 🌍 3. [PM 2.5 Air Quality Prediction & Alert](https://github.com/suthin67/PM2.5-Bangkok)
-* **Objective:** A Time-Series forecasting model to predict PM 2.5 pollution levels 1-3 days in advance to assist in planning outdoor activities and mitigating health/economic risks.
-* **Tech:** Python, Time Series Analysis, Regressor Models, Weather Data APIs.
+### 4. PM 2.5 Time-Series Forecast & Spatial Alert System
+* **Overview:** ระบบทำนายและแจ้งเตือนฝุ่นละอองล่วงหน้า
+* **Tech Stack:** Python, TensorFlow/Keras (LSTM), Time-Series Analysis
+* **Key Results:** * วิเคราะห์ข้อมูล Time-Series ของค่าฝุ่นและสภาพอากาศ
+    * พัฒนาโมเดล LSTM พยากรณ์ค่าฝุ่นล่วงหน้า
+    * ออกแบบระบบแจ้งเตือน (Alert System) ตามพื้นที่
+* 🔗 [View on GitHub](https://github.com/suthin67/PM25-Time-Series-Forecast)
 
 ---
 
@@ -52,7 +64,7 @@ Here are my top projects showcasing my ability to handle end-to-end data pipelin
 ### 📫 Let's Connect!
 
 - **LinkedIn:** [www.linkedin.com/in/suthin-junphet-71a055212]
-- **Email:** [suthinjunphet2gmail.com]
+- **Email:** [suthinjunphet1@gmail.com]
 - **Resume:** [https://drive.google.com/drive/u/1/folders/1E6p5I6Iwg7hgHEkefm13vI0iK7uDdV7w]
 
 ⭐ *"Turning raw data into strategic business decisions."*
