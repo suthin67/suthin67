@@ -33,7 +33,7 @@ I don't just write code; **I build models that solve real-world business and soc
 * **Key Results:** * พัฒนาโมเดลทำนายโอกาสผิดนัดชำระหนี้ (Default Prediction) โดยใช้ Alternative Data 
     * ใช้ SHAP Value อธิบายเหตุผลการปฏิเสธสินเชื่อรายบุคคลอย่างโปร่งใส
     * สร้าง Business Decision Matrix เพื่อกำหนดเงื่อนไขการอนุมัติอัตโนมัติ
-* 🔗 [View on GitHub](https://github.com/suthin67/TH-NANO-Credit-Scoring)
+* 🔗 [View on GitHub](https://github.com/suthin67/TH-NANO)
 
 ### 3. BKK Hainanese Chicken Rice: Hyper-Local Geospatial Analysis
 * **Overview:** วิเคราะห์ข้อมูลเชิงพื้นที่ (Spatial Data) เพื่อหาโอกาสในการเปิดร้านอาหารในกรุงเทพฯ
