@@ -51,7 +51,7 @@ Here are my top projects showcasing my ability to handle end-to-end data pipelin
 
 ### 📫 Let's Connect!
 
-- **LinkedIn:** 
+- **LinkedIn:** [www.linkedin.com/in/suthin-junphet-71a055212]
 - **Email:** [suthinjunphet2gmail.com]
 - **Resume:** [https://drive.google.com/drive/u/1/folders/1E6p5I6Iwg7hgHEkefm13vI0iK7uDdV7w]
 
