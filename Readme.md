@@ -41,7 +41,7 @@ I don't just write code; **I build models that solve real-world business and soc
 * **Key Results:** * ทำ Data Extraction & Cleansing ข้อมูลประชากรและพิกัดร้านอาหารย้อนหลัง 5 ปี
     * สร้าง Interactive 3D Spatial Map แสดงความหนาแน่นและทิศทางการเติบโตของร้านค้า
     * แนะนำทำเลที่มีการแข่งขันต่ำ (Blue Ocean) สำหรับผู้ประกอบการ
-* 🔗 [View on GitHub](https://github.com/suthin67/BKK-Chicken-Rice-3DMap)
+* 🔗 [View on GitHub](https://github.com/suthin67/bangkok-chicken-rice-geospatial-index)
 
 ### 4. PM 2.5 Time-Series Forecast & Spatial Alert System
 * **Overview:** ระบบทำนายและแจ้งเตือนฝุ่นละอองล่วงหน้า
@@ -49,15 +49,15 @@ I don't just write code; **I build models that solve real-world business and soc
 * **Key Results:** * วิเคราะห์ข้อมูล Time-Series ของค่าฝุ่นและสภาพอากาศ
     * พัฒนาโมเดล LSTM พยากรณ์ค่าฝุ่นล่วงหน้า
     * ออกแบบระบบแจ้งเตือน (Alert System) ตามพื้นที่
-* 🔗 [View on GitHub](https://github.com/suthin67/PM25-Time-Series-Forecast)
+* 🔗 [View on GitHub](https://github.com/suthin67/PM25-Time-Series)
 
 ---
 
 ### 📈 GitHub Stats
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=suthin67&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+</div>
 
 ---
 
