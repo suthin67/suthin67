@@ -56,7 +56,7 @@ I don't just write code; **I build models that solve real-world business and soc
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suthin67&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=suthin67&show_icons=true&theme=radical&v=1" alt="GitHub Stats" />
 </div>
 
 ---
